@@ -1,1 +1,1 @@
-haio Conichiwa SamuraiCod Desu Kore wa Watashi no saisho no arukusupuro :jekuto
+This is 0x01-git dir
